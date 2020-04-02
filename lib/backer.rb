@@ -13,6 +13,6 @@ class Backer
     project.backers << self 
   end
   
- 
+  def 
   
 end
